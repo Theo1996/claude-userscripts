@@ -1,4 +1,4 @@
-# claude-userscripts ff1155.xx
+# claude-userscripts ff155.xx
 
 My userscripts for FF115.xx on win7
 
